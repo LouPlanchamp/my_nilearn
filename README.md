@@ -1,2 +1,2 @@
-# my_nilearn
-my nilearn ex and tests
+# My MRI analysis
+
